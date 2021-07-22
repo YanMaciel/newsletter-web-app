@@ -5,7 +5,9 @@
 This is a basic web app via which you can subscribe to receive a Newsletter from someone or a company using Mailchimp's API Server.
 
 # Created with 
-This application uses Node.js, Express.js, HTML, CSS and Bootstrap. It also uses Mailchimp's API to register the subscriber's First Name, Last Name and their e-mail:
+This application uses Node.js, Express.js, HTML, CSS and Bootstrap. It also uses Mailchimp's API to register the subscriber's First Name, Last Name and their e-mail.
+
+Mailchimp's server registering the Newsletter's subscribers (those are not real e-mails, just tests):
 
 ![](/mailchimpServer.png)
 
