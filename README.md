@@ -1,18 +1,18 @@
 # Newsletter Web App
-![](/finance_portfolio.png)
+![](/newsletterPage.png)
 
 # Description
 This is a basic web app via which you can subscribe to receive a Newsletter from someone or a company using Mailchimp's API Server.
 
 # Created with 
-This application uses Node.js, Express.js, HTML, CSS and Bootstrap. It also uses Mailchimp's API to register the subscriber's First Name, Last Name and their e-mail, as the image below:
+This application uses Node.js, Express.js, HTML, CSS and Bootstrap. It also uses Mailchimp's API to register the subscriber's First Name, Last Name and their e-mail:
 
-![]()
+![](/mailchimpServer.png)
 
 # Usage 
 It's a subscribing page that asks for the user's first and last name as well as their e-mail.
 
-If the signing up is succesfully proceeded a "success" HTML page will be rendered. If it's not, then a "failure" HTML page will be rendered with a "Try again" button that returns to the signing up page.
+If signing up is succesfully proceeded a "success" HTML page will be rendered. If it's not, then a "failure" HTML page will be rendered with a "Try again" button that returns to the signing up page.
 
 This is a toy app just for practice and I have not implemented a whole lot of security features.
 
